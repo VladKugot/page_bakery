@@ -1,6 +1,6 @@
 # 🎂 Creative Bakery – Landing Page
 
-A **responsive landing page** for a fictional bakery, crafted according to a [Figma design](#) and built using **HTML5**, **SCSS (Sass)**, and **JavaScript**. The project follows **BEM methodology** for class naming and uses **GitHub Flow** for development and deployment.
+A **responsive landing page** for a fictional bakery, crafted according to a [Figma design] (https://www.figma.com/design/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?node-id=11342-1117&p=f) and built using **HTML5**, **SCSS (Sass)**, and **JavaScript**. The project follows **BEM methodology** for class naming and uses **GitHub Flow** for development and deployment.
 
 ---
 
