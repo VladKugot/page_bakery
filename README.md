@@ -39,7 +39,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Fork the original repo and clone your forked version
-git clone https://github.com/<your_account>/creative-bakery.git
+git clone https://github.com/vladkugot/creative-bakery.git
 cd creative-bakery
 ```
 
